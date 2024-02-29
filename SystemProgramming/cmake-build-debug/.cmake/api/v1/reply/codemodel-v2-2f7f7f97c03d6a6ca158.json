@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.27"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "SystemProgramming",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "SystemProgramming::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-SystemProgramming-Debug-37dfd585376222aca43e.json",
+					"name" : "SystemProgramming",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/anpulein/Documents/Projects/Chuvsu/Chuvsu_4Kurs_SystemProgramming/SystemProgramming/cmake-build-debug",
+		"source" : "/Users/anpulein/Documents/Projects/Chuvsu/Chuvsu_4Kurs_SystemProgramming/SystemProgramming"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

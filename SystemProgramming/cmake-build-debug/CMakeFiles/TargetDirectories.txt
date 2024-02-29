@@ -1,0 +1,3 @@
+/Users/anpulein/Documents/Projects/Chuvsu/Chuvsu_4Kurs_SystemProgramming/SystemProgramming/cmake-build-debug/CMakeFiles/SystemProgramming.dir
+/Users/anpulein/Documents/Projects/Chuvsu/Chuvsu_4Kurs_SystemProgramming/SystemProgramming/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/anpulein/Documents/Projects/Chuvsu/Chuvsu_4Kurs_SystemProgramming/SystemProgramming/cmake-build-debug/CMakeFiles/rebuild_cache.dir
